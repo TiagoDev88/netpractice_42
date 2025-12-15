@@ -62,4 +62,3 @@ AI assistance was used in this project for the following tasks:
 
 - **Concept clarification**: Understanding subnetting calculations and CIDR notation
 - **Resource compilation**: Gathering and organizing relevant networking references
-- **Documentation writing**: Drafting clear explanations of networking concepts and instructions
